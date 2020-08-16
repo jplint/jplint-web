@@ -11,8 +11,8 @@ import HelloWorld from "./components/HelloWorld.vue";
 
 @Options({
   components: {
-    HelloWorld
-  }
+    HelloWorld,
+  },
 })
 export default class App extends Vue {}
 </script>
