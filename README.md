@@ -2,42 +2,83 @@
 
 Linting Web App for JP Engineers.
 
-## Project setup
+- [Dependencies](#dependencies)
+- [How to](#how-to)
+  - [Setup](#setup)
+  - [Develop](#develop)
+    - [Compiles and hot-reloads for development](#compiles-and-hot-reloads-for-development)
+    - [Compiles and minifies for production](#compiles-and-minifies-for-production)
+    - [Lints and fixes files](#lints-and-fixes-files)
+  - [Test](#test)
+    - [Unit Test](#unit-test)
+    - [E2E Test](#e2e-test)
+  - [Deploy](#deploy)
+  - [Customize configuration](#customize-configuration)
+- [Miscellaneous](#miscellaneous)
+  - [License](#license)
+  - [Contributor](#contributor)
+
+## Dependencies
+
+- Vue@3
+
+## How to
+
+### Setup
 
 ```shell
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Develop
+
+#### Compiles and hot-reloads for development
 
 ```shell
 npm run serve
 ```
 
-### Compiles and minifies for production
+#### Compiles and minifies for production
 
 ```shell
 npm run build
 ```
 
-### Run your unit tests
-
-```shell
-npm run test:unit
-```
-
-### Run your end-to-end tests
-
-```shell
-npm run test:e2e
-```
-
-### Lints and fixes files
+#### Lints and fixes files
 
 ```shell
 npm run lint
 ```
 
+### Test
+
+#### Unit Test
+
+```shell
+npm run test:unit
+```
+
+#### E2E Test
+
+```shell
+npm run test:e2e
+```
+
+### Deploy
+
+(T. B. D.)
+
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Miscellaneous
+
+### License
+
+MIT License
+
+### Contributor
+
+- [Shin'ichiro Suzuki](https://github.com/shin-sforzando)
+- [Tomoya Kashimada](https://github.com/tomoya-sforzando)
