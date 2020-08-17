@@ -291,3 +291,19 @@ dist
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
+
+
+### Vue CLI ###
+/tests/e2e/videos/
+/tests/e2e/screenshots/
+
+# local env files
+.env.local
+.env.*.local
+
+# Editor directories and files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
